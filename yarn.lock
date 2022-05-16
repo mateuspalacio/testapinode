@@ -376,6 +376,11 @@ side-channel@^1.0.4:
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
 
+simple-json-db@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/simple-json-db/-/simple-json-db-2.0.0.tgz#5ed27b0ed16f909506a72953f17eda49e278601d"
+  integrity sha512-oTh7gFQzqAe0E8RN3EkisPo0CojkzcKCKibTcJncg0yt47hWTaNwwjX/FsxfXSTDxfMjBFXFVnZe/EskAlJr7w==
+
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
